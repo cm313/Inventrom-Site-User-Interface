@@ -1,0 +1,82 @@
+
+.logo{
+	display:  inline-block;
+	margin-left: 18%;
+}
+.links{
+	margin-left: 300px;
+	display: inline-block;
+}
+.links a{
+	padding: 15px;
+	display: inline-block;
+	font-size: 20px;
+	color: #A9A9A9 ;
+}
+a:hover{
+    color: #0a0a0a;
+	}
+.firstbody{
+	background-image:url("background-layer.png");
+	height: 500px;
+	color: white;
+	text-align: center;
+	padding-top:18% ;
+	font-size: 40px;
+
+}
+.middlebody{
+text-align:center;
+}
+.pic1{
+	display: inline-block;
+	text-align: left;
+	font-size:small ;
+}
+.pic2{
+	display: inline-block;
+	padding-left: 200px;
+	text-align: left;
+	font-size:small ;
+}
+.middlebody2{
+	text-align: center;
+	background-color: #F5F5F5;
+	height: 500px;
+}
+.pics{
+	paddint-top: 20px;
+	display: inline-block;
+	text-align: center;
+	font-size:10px ;
+}
+.middlebody3{
+	padding-top: 0px;
+	background-color: #F5F5F5;
+	height: 600px;
+}
+.personaldata{
+	margin-left: 20px;
+	display: inline-block;
+}
+.locations{
+	display: inline-block;
+	margin-left:650px;
+}
+.foot{
+	height: 80px;
+	width: 100%;
+	color: white;
+	background-color:#006400;
+	margin-bottom: 0px;
+}
+.foot p{
+	padding-top:30px;
+	padding-left: 150px;
+}
+span a{
+	padding: 10px;
+	position: relative;
+	bottom: 30px;
+}
+
